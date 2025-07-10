@@ -15,3 +15,6 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Highest selling category?
 - Percentage of total Orders delivered?
 - Dashboard interaction <a href = "https://github.com/kritypandey/Vrinda-Store-analysis/blob/main/Dashboard(KPIs)%20image.png">view dashboard</a>
+
+## Dashboard
+- ![Dashboard(KPIs) image](https://github.com/user-attachments/assets/a6c66a5b-0db7-41b2-9440-51976206ec53)
